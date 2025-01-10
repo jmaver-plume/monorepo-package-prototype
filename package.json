@@ -1,0 +1,7 @@
+{
+  "name": "monorepo-package-prototype",
+  "workspaces": [
+    "multiply"
+  ],
+  "packageManager": "npm@10.9.0"
+}
